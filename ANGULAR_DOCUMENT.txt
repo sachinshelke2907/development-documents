@@ -7,3 +7,12 @@ npm install --global yarn
 
 ## After install check version
 yarn --version
+
+######################################################################################
+## Ref URL : https://www.gurustop.net/blog/2017/01/26/use-yarn-npm-with-angular-cli#:~:text=When%20the%20Angular%20CLI%20creates,lock%20that's%20not%20yet%20added.
+## Create Angular project
+ng new <project_name> --skip-install
+
+## Install Dependencies using yarn
+yarn install
+
